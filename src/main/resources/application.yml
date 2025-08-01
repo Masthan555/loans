@@ -39,7 +39,6 @@ management:
     env:
       enabled: true
 
-
 eureka:
   instance:
     preferIpAddress: true
